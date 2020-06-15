@@ -2,7 +2,7 @@
 
 Bienvenue sur cet espace de dépôt, consacré au Bluethood. Je vais tâcher avec des documents disponible sur le Web, de vous familiarisez avec cette technologie.
 Je vous donnerai ici, les informations relatives à  la création, au développement et au fonctionnement de celle-ci.
-
+En esperant que cela puisse vous aidez à mieux comprendre l'usage du Bluethood.
 **Table des matières**
 
 1. Le Bluethood, c'est quoi?

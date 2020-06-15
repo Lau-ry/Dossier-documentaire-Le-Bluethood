@@ -5,6 +5,8 @@ Je vous donnerai ici, les informations relatives à  la création, au développe
 
 **Table des matières**
 
+1. Le Bluethood, c'est quoi?
+
 
 # Header 1
 ## Header 2

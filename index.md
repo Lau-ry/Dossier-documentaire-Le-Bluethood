@@ -1,7 +1,8 @@
 **Accueil**
 
-Bienvenue sur cet espace de dépôt qui aura pour sujet "Le Bluethood"
 
+Bienvenue sur cet espace de dépôt, consacré au Bluethood. Je vais tâcher à travers  des documents disponibles sur le Web, de vous familiariser avec cette technologie.
+µµ
 You can use the [editor on GitHub](https://github.com/Lau-ry/Dossier-documentaire-Le-Bluethood/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

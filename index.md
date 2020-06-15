@@ -1,7 +1,5 @@
-**Acuueil
-
-Bienvenue sur cet espace de dépôt, conscré au Bluethood. Je vais tâcher à travers des documents disponibles sur le 
-,de vous familiarisez avec cette technologie.
+**Accueil**
+Bienvenue sur cet espace de dépôt, consacré au Bluethood. Je vais tâcher avec des documents disponible sur le Web, de vous familiarisez avec cette technologie.
 Je vous donnerai ici, les informations relatives à  la création, au développement et au fonctionnement de celle-ci.        
 # Header 1
 ## Header 2
